@@ -2,8 +2,6 @@
 
 ## Manipulation
 *Models are raised above others if there are comparative benchmarks to others or better indicators in visual demonstrations (subjectively). Many models are difficult to rank due to the lack of comparative tests with others and thier order does not display rating. This sorting is not accurate.*
-1. https://github.com/Max-Fu/otter
-https://ottervla.github.io/
 
 1. https://github.com/Physical-Intelligence/openpi
 https://www.physicalintelligence.company/blog/pi0
@@ -27,6 +25,9 @@ https://robodita.github.io/
 
 1. https://github.com/juruobenruo/DexVLA
 https://dex-vla.github.io/
+
+1. https://github.com/Max-Fu/otter
+https://ottervla.github.io/
 
 1. https://github.com/openvla/openvla
 https://openvla.github.io/
