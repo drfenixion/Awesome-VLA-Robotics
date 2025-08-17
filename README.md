@@ -137,3 +137,5 @@ https://ok-robot.github.io/
 1. https://github.com/Jiaaqiliu/Awesome-VLA-Robotics
 
 1. https://github.com/Orlando-CS/Awesome-VLA
+
+1. https://vla-survey.github.io/
