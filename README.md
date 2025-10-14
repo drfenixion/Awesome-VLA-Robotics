@@ -6,10 +6,10 @@
 1. https://github.com/Physical-Intelligence/openpi
 https://www.physicalintelligence.company/blog/pi05
 
-1. https://huggingface.co/blog/smolvla
-
 1. https://github.com/Physical-Intelligence/openpi
 https://www.physicalintelligence.company/blog/pi0
+
+1. https://huggingface.co/blog/smolvla
 
 1. https://github.com/OpenDriveLab/UniVLA
 
