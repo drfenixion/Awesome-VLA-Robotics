@@ -3,6 +3,9 @@
 ## Manipulation
 *Models are raised above others if there are comparative benchmarks to others or better indicators in visual demonstrations (subjectively). Many models are difficult to rank due to the lack of comparative tests with others and thier order does not display rating. This sorting is not accurate.*
 
+1. https://github.com/Physical-Intelligence/openpi
+https://www.physicalintelligence.company/blog/pi05
+
 1. https://huggingface.co/blog/smolvla
 
 1. https://github.com/Physical-Intelligence/openpi
