@@ -95,6 +95,9 @@ https://voxposer.github.io/
 1. https://github.com/google-research/google-research/tree/master/saycan
 https://say-can.github.io/
 
+### Frameworks to build VLA
+1. https://github.com/starVLA/starVLA
+
 ### Alternative implimentation of Pi0 and related:
 1. https://github.com/allenzren/open-pi-zero
 
