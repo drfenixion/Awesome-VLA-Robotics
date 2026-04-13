@@ -3,6 +3,9 @@
 ## Manipulation
 *Models are raised above others if there are comparative benchmarks to others or better indicators in visual demonstrations (subjectively). Many models are difficult to rank due to the lack of comparative tests with others and thier order does not display rating. This sorting is not accurate.*
 
+1. https://github.com/2toinf/X-VLA
+https://thu-air-dream.github.io/X-VLA/
+
 1. https://github.com/greenvla/GreenVLA
 https://greenvla.github.io/
 
